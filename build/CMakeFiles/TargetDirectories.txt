@@ -1,0 +1,3 @@
+/home/andro/maga-game/build/CMakeFiles/game.dir
+/home/andro/maga-game/build/CMakeFiles/edit_cache.dir
+/home/andro/maga-game/build/CMakeFiles/rebuild_cache.dir
